@@ -48,3 +48,21 @@ Setas (⬆️⬇️⬅️➡️)	Mover o Mago
 Barra de Espaço	Colocar Bomba
 
 Tecla R	Reiniciar após Game Over ou Vitória
+
+
+---
+
+## 📜 Créditos
+
+Este projeto foi construído com o apoio de artes e sons da comunidade open-source. Abaixo estão as devidas atribuições:
+
+### 🎨 Artes e Imagens
+* **Personagens e Lógica de Base:** Baseado no projeto Bomberman de [Forestf90](https://github.com/Forestf90/Bomberman).
+* **Tileset do Labirinto:** [Tiny Dungeon](https://kenney.nl/assets/tiny-dungeon) por **Kenney.nl**.
+
+### 🔊 Sons e Músicas
+* **Música do Menu:** *"Cretaceous Dawn"* por **Kevin MacLeod** (incompetech.com). Licenciado sob [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+* **Música da Partida:** *"About to Log on"* por **fluffclipse**. Licenciado sob [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+* **Efeito de Game Over e Game Win:** [SFX](https://freesound.org/people/EVRetro/sounds/533034/) por **EVRetro** via Freesound.org.
+
+
