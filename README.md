@@ -1,7 +1,9 @@
 # 💣 BOMBARDMENT
 
 **BOMBARDMENT** é um jogo de ação e estratégia inspirado no clássico Bomberman, desenvolvido em Python utilizando a biblioteca **Pygame Zero**.
-![Screenshot do Gameplay de BOMBARDMENT](Captura de tela de 2025-12-18 00-31-26.png)
+
+![Gameplay do BOMBARDMENT](Captura%20de%20tela%20de%202025-12-18%2000-31-26.png)
+
 ## 🚀 Como Preparar o Ambiente (Linux)
 
 Siga estes passos exatos para configurar o ambiente e rodar o jogo, assim como foi feito no desenvolvimento:
